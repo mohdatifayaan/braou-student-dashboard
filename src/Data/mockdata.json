@@ -1,0 +1,47 @@
+{
+  "student": {
+    "id": "ST-2026-8492",
+    "gpa": 3.8,
+    "totalCredits": 84
+  },
+  "currentCourses": [
+    {
+      "id": "CS-301",
+      "courseName": "Data Structures & Algorithms",
+      "instructor": "Dr. R. Sharma",
+      "status": "In Progress"
+    },
+    {
+      "id": "CS-412",
+      "courseName": "Cloud Computing Architectures",
+      "instructor": "Prof. A. Gupta",
+      "status": "In Progress"
+    },
+    {
+      "id": "ENG-205",
+      "courseName": "Technical Communication",
+      "instructor": "Dr. M. Patel",
+      "status": "In Progress"
+    },
+    {
+      "id": "DES-310",
+      "courseName": "3D Modeling & CAD",
+      "instructor": "Prof. S. Reddy",
+      "status": "In Progress"
+    }
+  ],
+  "recentExams": [
+    {
+      "courseId": "CS-250",
+      "courseName": "Database Management Systems",
+      "grade": "A",
+      "date": "May 2026"
+    },
+    {
+      "courseId": "MTH-201",
+      "courseName": "Discrete Mathematics",
+      "grade": "B+",
+      "date": "May 2026"
+    }
+  ]
+}
